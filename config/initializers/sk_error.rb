@@ -1,0 +1,2 @@
+class SKAuthenticationError < StandardError
+end
